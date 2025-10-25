@@ -7,7 +7,7 @@ This project demonstrates the creation of a specialized Splunk dashboard designe
 
 The final dashboard provides critical insights into SSH authentication patterns, highlighting anomalies and potential security threats at a glance. It serves as a primary tool for investigating credential access attempts and understanding the SSH attack surface.
 
-<img src="./assets/Brute Force Dashboard.png" width="800" alt="Splunk dashboard showing SSH log analysis and brute force detection">
+<img src=".assets/Brute Force Dashboard.png" width="800" alt="Splunk dashboard showing SSH log analysis and brute force detection">
 *<p align="center">Figure 1: The complete SSH Logs Dashboard, visualizing KPIs, targeted users, attack sources, and geographic locations.*</p>
 
 ---
