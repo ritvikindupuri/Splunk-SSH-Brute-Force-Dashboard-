@@ -31,7 +31,7 @@ These panels help identify specific targets and sources of malicious activity.
 This choropleth map uses Splunk's `iplocation` and `geom` commands to plot the geographic origin of IPs associated with multiple failed authentications. This provides crucial context, helping analysts understand if attacks are targeted or part of global campaigns, and potentially informing firewall rule decisions. In this view, attacks are clearly originating from specific regions in North America and Asia.
 
 ---
-## 🚀 Skills & Technologies Demonstrated
+##  Skills & Technologies Demonstrated
 
 * **Splunk Enterprise:** Dashboard creation, data ingestion, panel configuration, and visualization.
 * **Search Processing Language (SPL):** Writing queries using `stats`, `top`, `where`, `table`, `iplocation`, and `geom` for security event analysis.
